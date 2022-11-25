@@ -85,4 +85,4 @@ Das gleiche gilt für Änderungen.
 Sie tritt mit der Bestätigung durch die Mitgliederversammlung in Kraft.
 
 
-Angelbachtal, den 11.02.2000
+Angelbachtal, den 28.09.2022
