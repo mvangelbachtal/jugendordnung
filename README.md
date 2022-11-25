@@ -42,7 +42,7 @@ Die Kassenprüfung wird durch die Revision des Vereins oder vom Vereinsvorstand 
 Die Jugendversammlung tritt mindestens einmal jährlich vor der Mitgliederversammlung des Vereins zusammen.  
 Sie wird mindestens 2 Wochen vorher einberufen.  
 Die Jugendversammlung kann jederzeit durch den Jugendleiter einberufen werden.  
-Auf Antrag zweier Drittel der stimmberechtigten Mitglieder der Jugendversammlung muß eine außerordentliche Jugendversammlung innerhalb von 6 Wochen mit einer Ladungspflicht von 3 Wochen stattfinden.  
+Auf Antrag zweier Drittel der stimmberechtigten Mitglieder der Jugendversammlung muss eine außerordentliche Jugendversammlung innerhalb von 6 Wochen mit einer Ladungspflicht von 3 Wochen stattfinden.  
 Zur Einberufung genügt die Veröffentlichung durch Aushang.  
 Jede ordnungsgemäß einberufene Jugendversammlung ist - unabhängig von der Zahl der erschienenen Stimmberechtigten - beschlussfähig.  
 Sie wird beschlussunfähig, wenn die Hälfte der nach der Anwesenheitsliste stimmberechtigten Teilnehmer nicht mehr anwesend ist.  
