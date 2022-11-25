@@ -33,10 +33,8 @@ Stimmberechtigt sind alle Mitglieder der Jugendabteilung nach § 1.
 Aufgaben der Jugendversammlung sind u.a.:
 * Festlegung der Richtlinien für die Tätigkeit der Jugendabteilung.
 * Entgegennahme und Beratung der Berichte des Jugendvorstandes.
-* Entgegennahme und Beratung des Kassenabschlusses und des Berichts der Kassenprüfer.
 * Entlastung des Jugendvorstandes.
 * Wahl des Jugendvorstandes.
-* Bestätigung der Jugendvertreter.
 
 Die Kassenprüfung wird durch die Revision des Vereins oder vom Vereinsvorstand benannten Personen (z.B. Kassier) durchgeführt.  
 Die Jugendversammlung tritt mindestens einmal jährlich vor der Mitgliederversammlung des Vereins zusammen.  
