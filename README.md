@@ -1,19 +1,19 @@
 # Jugendordnung
 
 
-## §1 Zuständigkeit, Mitgliedschaft
+## § 1 Zuständigkeit, Mitgliedschaft
 Die Jugendordnung ist die Grundlage für die Jugendabteilung des Musikvereins Angelbachtal.  
 Zur Jugendabteilung gehören alle Mitglieder des Musikvereins Angelbachtal bis zum vollendeten 21. Lebensjahr (Stichtag: 01.01.), sowie die gewählten und berufenen Mitarbeiter der Jugendabteilung.  
 Die Jugendabteilung führt und verwaltet sich selbständig im Rahmen der Satzung des Vereins.
 
 
-## §2 Ziele
+## § 2 Ziele
 Die Jugendabteilung des Musikvereins Angelbachtal gibt den jugendlichen Mitgliedern des Vereins Hilfe bei ihrer Persönlichkeitsentwicklung.  
 Sie fördert die musikalische Betätigung und das soziale Verhalten der Jugendlichen.  
 Sie pflegt den Gemeinschaftssinn, die internationale und nationale Verständigung verschiedener Bevölkerungsgruppen.
 
 
-## §3 Aufgaben
+## § 3 Aufgaben
 Aufgaben sind insbesondere:
 * Ausbildung im musikalischen Bereich
 * Planung und Durchführung von Vorspielen
@@ -21,13 +21,13 @@ Aufgaben sind insbesondere:
 * Förderung von Fortbildung und Lehrgangsbesuch in den Leistungsgruppen D1, D2 und D3.
 
 
-## §4 Organe
+## § 4 Organe
 Organe der Jugendabteilung sind:
 * die Jugendabteilung
 * der Jugendvorstand
 
 
-## §5 Jugendversammlung
+## § 5 Jugendversammlung
 Die Jugendversammlung ist das oberste Organ der Jugendabteilung des Musikvereins Angelbachtal.  
 Stimmberechtigt sind alle Mitglieder der Jugendabteilung nach § 1.  
 Aufgaben der Jugendversammlung sind u.a.:
@@ -50,7 +50,7 @@ Voraussetzung ist aber, dass die Beschlussfähigkeit durch den Versammlungsleite
 Bei Abstimmungen und Wahlen genügt die einfache Mehrheit der anwesenden Stimmberechtigten.
 
 
-## §6 Jugendvorstand
+## § 6 Jugendvorstand
 Der Jugendvorstand besteht aus:
 * Jugendleiter/in (über 18 Jahre)
 * Stellvertreter/in (über 18 Jahre)
@@ -73,7 +73,7 @@ Er hat alle Aufgaben wahrzunehmen, die nach der Jugendordnung oder der Satzung d
 Er ist beschlussfähig, wenn die Hälfte seiner Mitglieder anwesend sind.
 
 
-## §7 Jugendkasse
+## § 7 Jugendkasse
 Die Jugendabteilung wirtschaftet selbständig und eigenverantwortlich mit den ihr vom Verein zur Verfügung gestellten finanziellen Mitteln sowie evt. Zuschüssen, Spenden und sonstigen Einnahmen z.B. aus Aktivitäten.  
 Sie ist verantwortlicher Empfänger der Zuschüsse für jugendpflegerische Maßnahmen.  
 Die Jugendkasse wird vom Jugendkassenwart verwaltet.  
@@ -82,11 +82,11 @@ Dem Vereinsvorstand oder dem vom Verein damit Beauftragtem (z.B. Vereinskassier)
 Ihm ist jederzeit Einblick in die Kassenführung zu geben.
 
 
-## §8 sonstige Bestimmungen
+## § 8 sonstige Bestimmungen
 Sofern in der Jugendordnung keine besonderen Regelungen enthalten sind, gelten jeweils die Bestimmungen der Vereinssatzung.
 
 
-## §9 Gültigkeit, Änderung der Ordnung
+## § 9 Gültigkeit, Änderung der Ordnung
 Die Jugendordnung muss von der Jugendversammlung mit einer Mehrheit von zwei Dritteln der anwesenden Stimmberechtigten beschlossen und von der Mitgliederversammlung des Vereins mit einer Mehrheit von zwei Dritteln der anwesenden stimmberechtigten Mitglieder bestätigt werden.  
 Das gleiche gilt für Änderungen.  
 Sie tritt mit der Bestätigung durch die Mitgliederversammlung in Kraft.
