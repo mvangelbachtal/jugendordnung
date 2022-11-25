@@ -69,7 +69,7 @@ Er ist beschlussfähig, wenn die Hälfte seiner Mitglieder anwesend sind.
 ## § 7 Jugendkasse
 Die Jugendabteilung wirtschaftet selbständig und eigenverantwortlich mit den ihr vom Verein zur Verfügung gestellten finanziellen Mitteln sowie evt. Zuschüssen, Spenden und sonstigen Einnahmen z.B. aus Aktivitäten.  
 Sie ist verantwortlicher Empfänger der Zuschüsse für jugendpflegerische Maßnahmen.  
-Die Jugendkasse wird vom Jugendkassenwart verwaltet.  
+Die Jugendkasse wird von der Person, welche die Kasse auf Vereinsebene führt, verwaltet.  
 Der Nachweis über die sachgerechte Verwendung der Mittel erfolgt innerhalb der Jugendabteilung.  
 Dem Vereinsvorstand oder dem vom Verein damit Beauftragtem (z.B. Vereinskassier) gegenüber ist die Jugendabteilung rechenschaftspflichtig.  
 Ihm ist jederzeit Einblick in die Kassenführung zu geben.
