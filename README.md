@@ -40,9 +40,9 @@ Aufgaben der Jugendversammlung sind u.a.:
 
 Die Kassenprüfung wird durch die Revision des Vereins oder vom Vereinsvorstand benannten Personen (z.B. Kassier) durchgeführt.  
 Die Jugendversammlung tritt mindestens einmal jährlich vor der Mitgliederversammlung des Vereins zusammen.  
-Sie wird mindestens 2 Wochen vorher einberufen.  
+Sie wird mindestens zwei Wochen vorher einberufen.  
 Die Jugendversammlung kann jederzeit durch den Jugendleiter einberufen werden.  
-Auf Antrag zweier Drittel der stimmberechtigten Mitglieder der Jugendversammlung muss eine außerordentliche Jugendversammlung innerhalb von 6 Wochen mit einer Ladungspflicht von 3 Wochen stattfinden.  
+Auf Antrag zweier Drittel der stimmberechtigten Mitglieder der Jugendversammlung muss eine außerordentliche Jugendversammlung innerhalb von sechs Wochen mit einer Ladungspflicht von drei Wochen stattfinden.  
 Zur Einberufung genügt die Veröffentlichung durch Aushang.  
 Jede ordnungsgemäß einberufene Jugendversammlung ist - unabhängig von der Zahl der erschienenen Stimmberechtigten - beschlussfähig.  
 Sie wird beschlussunfähig, wenn die Hälfte der nach der Anwesenheitsliste stimmberechtigten Teilnehmer nicht mehr anwesend ist.  
@@ -60,7 +60,7 @@ Der Jugendvorstand besteht aus:
 
 Der Jugendleiter vertritt die Interessen der Vereinsjugend nach innen und außen.  
 Der Jugendleiter, sein Stellvertreter und der Jugendkassenwart sind stimmberechtigte Mitglieder im Vorstand des Vereins.  
-Die Mitglieder des Jugendvorstandes werden von der Jugendversammlung auf 2 Jahre gewählt.  
+Die Mitglieder des Jugendvorstandes werden von der Jugendversammlung auf zwei Jahre gewählt.  
 Sie bleiben bis zur Neuwahl des Jugendvorstandes im Amt.  
 Der Jugendvorstand kann ggf. außerordentliche Mitglieder zusätzlich in den Jugendvorstand berufen.  
 Außerordentliche Mitglieder sind Personen, die dem Jugendvorstand durch Amt bzw. Funktion angehören.  
