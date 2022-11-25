@@ -65,7 +65,7 @@ Sie bleiben bis zur Neuwahl des Jugendvorstandes im Amt.
 Der Jugendvorstand kann ggf. außerordentliche Mitglieder zusätzlich in den Jugendvorstand berufen.  
 Außerordentliche Mitglieder sind Personen, die dem Jugendvorstand durch Amt bzw. Funktion angehören.  
 Sie werden nicht in der Jugendversammlung gewählt.  
-Dies sind z.B. Elternvertreter, Jugenddirigent usw.  
+Dies sind z.B. Elternvertreter\*in, Jugenddirigent\*in usw.  
 Die Mitgliedschaft der außerordentlichen Mitglieder im Jugendvorstand ist an ihr Amt bzw. an ihre Funktion gebunden.  
 Bei Beendigung ihrer Funktion oder ihres Amtes erlischt ihre Mitgliedschaft im Jugendvorstand.  
 Der Jugendvorstand führt die laufenden Geschäfte der Jugendabteilung.  
