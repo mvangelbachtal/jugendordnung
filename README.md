@@ -49,7 +49,9 @@ Bei Abstimmungen und Wahlen genügt die einfache Mehrheit der anwesenden Stimmbe
 
 
 ## § 6 Jugendvorstand
-Der Jugendvorstand besteht aus drei Jugendleiter\*innen (über 18 Jahre).  
+Der Jugendvorstand besteht aus:
+* drei Jugendleiter\*innen (über 18 Jahre)
+* ein bis drei Jugendbeirät\*innen. 
 
 Die Jugendleiter\*innen vertretten die Interessen der Vereinsjugend nach innen und außen.  
 Die Jugendleiter\*innen sind stimmberechtigte Mitglieder im Vorstand des Vereins.  
